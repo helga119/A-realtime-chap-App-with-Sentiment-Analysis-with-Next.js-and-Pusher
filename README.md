@@ -3,19 +3,23 @@ A Realtime Chap App with Sentiment-Analysis
 This repository contains the source code for a simple chat application that operates in real-time and includes sentiment analysis. By utilizing sentiment analysis, we can determine the mood of users based on the language they use in their chat messages.
 
 Getting Started:
+
 Follow these instructions to set up and run the project on your local machine for development and testing purposes.
 
 
 Prerequisites:
+
 Make sure Node and npm or yarn are installed on your machine. You can download Node and npm from the Node download page. If you prefer using Yarn as your package manager, you can obtain it from their website.
 
 Create a Pusher application by registering on the Pusher Dashboard. This will provide you with the necessary app credentials.
 
 Setup Instructions:
+
 Clone the repository into a new directory on your machine.
 From the new directory, install the project dependencies by executing the following command:
 
 npm install
+
 or using yarn:
 
 yarn add
