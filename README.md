@@ -35,7 +35,8 @@ PUSHER_APP_SECRET=YOUR_APP_SECRET
 
 PUSHER_APP_CLUSTER=YOUR_APP_CLUSTER
 
-Start the application by running the following command. The app will run on port 3000, unless that port is already in use:
+Start the application by running the following command:
+The app will run on port 3000, unless that port is already in use.
 
 npm run dev
 
